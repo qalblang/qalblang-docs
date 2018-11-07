@@ -1,6 +1,6 @@
 # ي : لغة البرمجة 
 
-**_YaLang (ي)_** is an open source programming language where you can write python code in arabic language.
+**_[YaLang (ي)](https://github.com/yalang/yalang)_** is an open source programming language where you can write python code in arabic language.
 
 It takes the arabic text and convert it into python code and execute it. 
 Which then can be used anywhere. You can code anything which you can code in python.
